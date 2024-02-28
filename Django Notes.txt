@@ -1,0 +1,5 @@
+##Creating your virtual enviroment for your django project using pipenv
+@pip install pipenv
+
+##To activate the said virtual enviroment
+@pipenv shell
